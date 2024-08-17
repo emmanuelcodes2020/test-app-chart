@@ -1,0 +1,6 @@
+devnamespace: dev
+testingApplicationName: testing-app
+testingservice: testing-app-service
+testingimage: 
+  name: 416591745024.dkr.ecr.eu-west-2.amazonaws.com/docker-repo/super-app
+  tag: "latest"
